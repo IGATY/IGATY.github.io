@@ -8,7 +8,7 @@
 
 <body>
   <div id="container">
-    <header>
+    <header  style="margin-left: 0%; margin-right: 0%;">
       <nav>
         <ul>
 			<li><a>IGATY</a></li>
