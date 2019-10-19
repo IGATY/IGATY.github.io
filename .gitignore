@@ -1,0 +1,17 @@
+#ignore
+.DS_Store
+IGATY/Temp/
+IGATY/obj/
+IGATY/Library/
+IGATY/.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+sysinfo.txt
