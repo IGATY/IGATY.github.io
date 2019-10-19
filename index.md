@@ -33,7 +33,7 @@
   
     <h1 style="background-color: #777; padding: 10px;"><a href="explore/index.html" style = "text-decoration: none; color: #FFF;">EXPLORE!</a></h1>
 	
-	<img src="images/ColorFlood.gif"align="middle">
+	<img src="images/ColorFlood.gif" align="middle">
 	<img src="images/DressedCeiling.gif" align="middle">
 	<img src="images/Shuffle.gif" align="middle">
 	<img src="images/SplitColumn.gif" align="middle">
