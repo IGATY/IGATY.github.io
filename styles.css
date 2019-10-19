@@ -35,14 +35,14 @@ nav ul li {
   border-left: 1px dotted #222;
   border-bottom: 5px solid #555;
 }
-nav ul li:first-child{
+nav ul li:first-child {
   vertical-align: bottom;
   line-height: 1em;
   border: none;
   padding: 0;
   font-size: 300%;
 }
-nav ul li:last-child{
+nav ul li:last-child {
   padding-right: 250px;
 }
 nav ul li .active {
@@ -56,17 +56,17 @@ nav ul li a {
   line-height: 5px;
   width: 40px;
 }
-section{
+section {
   position: relative;
   padding-top: 50px;
   width: 49%;
   left:22%
 }
-footer{
+footer {
   padding-top: 50px;
   color: #FFF;
   text-align: center;
 }
-ex{
+ex {
   background: #777;
 }
